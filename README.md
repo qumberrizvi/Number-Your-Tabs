@@ -1,6 +1,4 @@
-# Number-Your-Tabs
-
-# Chrome Extension
+# Number Your Tabs - Chrome Extension
 
 Number Your Tabs when Ctrl/Cmd button is held.
 
